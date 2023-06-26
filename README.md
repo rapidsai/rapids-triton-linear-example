@@ -179,7 +179,7 @@ particular example, we must match the dimensions of the inputs and **c**.
 ### `instance_group`
 This section  determines the hardware on which this model can be deployed (GPU
 or CPU). For this example backend, we will demonstrate how to ensure that
-models can perform inference on both GPUs and CPUs, but we will start with GPU
+models can perform inference on both GPUs and CPUs, buy we will start with GPU
 inference.
 
 ### `parameters`
